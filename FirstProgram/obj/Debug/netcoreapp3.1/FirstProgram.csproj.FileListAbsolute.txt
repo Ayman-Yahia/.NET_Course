@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csprojAssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache
