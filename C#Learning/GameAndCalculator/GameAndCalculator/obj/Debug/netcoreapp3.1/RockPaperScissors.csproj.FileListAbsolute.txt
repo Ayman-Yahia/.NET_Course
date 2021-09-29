@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\GameAndCalculator\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache

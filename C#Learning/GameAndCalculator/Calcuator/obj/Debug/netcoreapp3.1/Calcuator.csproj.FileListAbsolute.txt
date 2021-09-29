@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\bin\Debug\netcoreapp3.1\Calcuator.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\GameAndCalculator\Calcuator\obj\Debug\netcoreapp3.1\Calcuator.genruntimeconfig.cache
