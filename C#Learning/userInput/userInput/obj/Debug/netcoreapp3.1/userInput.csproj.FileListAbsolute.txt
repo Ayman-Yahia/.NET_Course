@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.genruntimeconfig.cache
