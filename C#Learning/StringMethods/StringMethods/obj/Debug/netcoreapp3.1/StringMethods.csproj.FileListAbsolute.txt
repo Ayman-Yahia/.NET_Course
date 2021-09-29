@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache
