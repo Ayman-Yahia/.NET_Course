@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\bin\Debug\netcoreapp3.1\Switches.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\Switches\Switches\obj\Debug\netcoreapp3.1\Switches.genruntimeconfig.cache
