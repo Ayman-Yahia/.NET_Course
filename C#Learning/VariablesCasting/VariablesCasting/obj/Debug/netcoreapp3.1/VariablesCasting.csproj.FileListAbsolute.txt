@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\bin\Debug\netcoreapp3.1\VariablesCasting.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\VariablesCasting\VariablesCasting\obj\Debug\netcoreapp3.1\VariablesCasting.genruntimeconfig.cache
