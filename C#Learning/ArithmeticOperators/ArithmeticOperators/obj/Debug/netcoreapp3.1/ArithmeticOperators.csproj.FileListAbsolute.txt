@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.genruntimeconfig.cache
