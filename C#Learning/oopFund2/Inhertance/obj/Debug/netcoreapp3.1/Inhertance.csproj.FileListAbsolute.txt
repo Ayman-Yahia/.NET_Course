@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\bin\Debug\netcoreapp3.1\Inhertance.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\Inhertance\obj\Debug\netcoreapp3.1\Inhertance.genruntimeconfig.cache

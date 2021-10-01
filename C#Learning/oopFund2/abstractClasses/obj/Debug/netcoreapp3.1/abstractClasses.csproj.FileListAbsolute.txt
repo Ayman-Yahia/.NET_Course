@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\bin\Debug\netcoreapp3.1\abstractClasses.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\abstractClasses\obj\Debug\netcoreapp3.1\abstractClasses.genruntimeconfig.cache

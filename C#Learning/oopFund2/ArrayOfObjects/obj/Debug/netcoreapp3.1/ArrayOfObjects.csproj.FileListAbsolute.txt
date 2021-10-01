@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\bin\Debug\netcoreapp3.1\ArrayOfObjects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oopFund2\ArrayOfObjects\obj\Debug\netcoreapp3.1\ArrayOfObjects.genruntimeconfig.cache
