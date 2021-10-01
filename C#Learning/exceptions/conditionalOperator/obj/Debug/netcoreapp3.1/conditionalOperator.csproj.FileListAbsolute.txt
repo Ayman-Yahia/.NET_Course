@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\bin\Debug\netcoreapp3.1\conditionalOperator.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\conditionalOperator\obj\Debug\netcoreapp3.1\conditionalOperator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\bin\Debug\netcoreapp3.1\Objects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\exceptions\Objects\obj\Debug\netcoreapp3.1\Objects.genruntimeconfig.cache
