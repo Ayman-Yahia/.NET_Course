@@ -1,2 +1,2 @@
 # .NET_Course
-.NET Course  By Questpond
+.NET Course  By FreeCodeCamp
