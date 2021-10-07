@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\bin\Debug\netcoreapp3.1\interfaceCR.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\interface\obj\Debug\netcoreapp3.1\interfaceCR.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\bin\Debug\netcoreapp3.1\multithreading.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\multithreading\obj\Debug\netcoreapp3.1\multithreading.genruntimeconfig.cache

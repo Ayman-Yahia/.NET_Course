@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\bin\Debug\netcoreapp3.1\autoImplementedProperties.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\autoImplementedProperties\obj\Debug\netcoreapp3.1\autoImplementedProperties.genruntimeconfig.cache

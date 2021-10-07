@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\bin\Debug\netcoreapp3.1\ToStringMethod.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ToStringMethod\obj\Debug\netcoreapp3.1\ToStringMethod.genruntimeconfig.cache

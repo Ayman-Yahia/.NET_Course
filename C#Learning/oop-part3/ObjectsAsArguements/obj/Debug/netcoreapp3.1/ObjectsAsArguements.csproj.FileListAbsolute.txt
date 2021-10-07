@@ -1,0 +1,14 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\bin\Debug\netcoreapp3.1\ObjectsAsArguements.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.csproj.AssemblyReference.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ObjectsAsArguements\obj\Debug\netcoreapp3.1\ObjectsAsArguements.genruntimeconfig.cache

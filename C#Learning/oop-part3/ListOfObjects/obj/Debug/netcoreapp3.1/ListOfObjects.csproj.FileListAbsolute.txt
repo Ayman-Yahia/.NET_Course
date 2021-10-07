@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.exe
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.deps.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.runtimeconfig.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.runtimeconfig.dev.json
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\bin\Debug\netcoreapp3.1\GetterAndSetters.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.AssemblyInfoInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.AssemblyInfo.cs
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.dll
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.pdb
+C:\Users\MohmmeD\Desktop\Tutorials\.NET_Course\C#Learning\oop-part3\GetterAndSetters\obj\Debug\netcoreapp3.1\GetterAndSetters.genruntimeconfig.cache
